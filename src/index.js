@@ -4,9 +4,6 @@ import './index.css';
 import App from './App';
 import TodoList from './TodoList'
 import reportWebVitals from './reportWebVitals';
-console.log(123)
-console.log(TodoList)
-console.log(App)
 
 ReactDOM.render(
     <TodoList />,
